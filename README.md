@@ -3,12 +3,19 @@
 <br><br>
 
 <!-- Fake terminal boot sequence -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2600&pause=1200&color=FF2E92&background=1A1A2E&center=true&width=650&height=90&lines=root%40kali%3A~%23+whoami;melina.mitsioni;root%40kali%3A~%23+nmap+-sV+target;22%2Ftcp+open+ssh;root%40kali%3A~%23+status%3A+hacking+the+planet+%F0%9F%92%97" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2600&pause=1200&color=FF2E92&background=1A1A2E&center=true&width=650&height=90&lines=%5B%2B%5D+target+acquired%3A+your+attention;%5B%2B%5D+scanning+for+open+ports...;%5B%2B%5D+vulnerability+found%3A+curiosity;%5B%2B%5D+status%3A+fully+exploited+%F0%9F%92%97" />
 
 <br>
 
 <img src="https://raw.githubusercontent.com/techmelify/techmelify/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/techmelify/techmelify/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
+<br><br>
+
+## 📋 About Me
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=FF2E92&background=1A1A2E&center=true&width=650&height=180&vCenter=true&multiline=true&lines=%5B%2B%5D+computer+systems+technician+-+athens%2C+greece;%5B%2B%5D+aspiring+penetration+tester;%5B%2B%5D+self-taught+my+way+into+cybersecurity;%5B%2B%5D+every+system+has+a+way+in" />
+
 
 <br><br>
 
@@ -41,6 +48,13 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 <br><br>
+
+## 📡 Rules of Engagement
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=FF2E92&background=1A1A2E&center=true&width=650&height=100&vCenter=true&multiline=true&lines=%5B*%5D+open+to+connecting+with+red+teamers+%26+CTF+players;%5B*%5D+not+open+to%3A+unsolicited+scope+creep" />
+
+<br>
+
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=techmelify.techmelify&color=ff2e92&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:ff2e92&height=100&section=footer" />
